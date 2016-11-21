@@ -1,0 +1,212 @@
+
+
+
+
+h1{
+
+
+	font-family: 'Catamaran', sans-serif;
+	font-size: 6em !important;
+	color: #000000;
+	letter-spacing: 0;
+	font-weight: bold;
+
+}
+
+
+h2{
+
+
+	font-family: 'Catamaran', sans-serif;
+	font-size: 3em !important;
+	color: #000000;
+	letter-spacing: 0;
+	
+
+
+}
+
+
+h3{
+
+
+	font-family: 'Catamaran', sans-serif;
+	font-size: 2em !important;
+	letter-spacing: 0;
+	color: #0275D8;
+	
+
+
+}
+
+h4 {
+
+	font-family: 'Catamaran', sans-serif;
+	font-size: 1.3em;
+	color: #000000;
+	letter-spacing: 0;
+	font-weight: bold;
+
+
+
+}
+
+h5 {
+
+	font-family: 'Catamaran', sans-serif;
+	font-size: 3.5em !important;
+	color: #000000;
+	letter-spacing: 0;
+	font-weight: bold;
+	margin-bottom: 60px;
+
+
+
+}
+
+
+
+p {
+
+	font-family: 'Catamaran', sans-serif;
+	font-size: 1.1em;
+	color: #000000;
+	letter-spacing: 0;
+
+
+}
+
+
+.thumbnail {
+ 
+    padding: 0px;
+  
+}
+
+
+
+
+
+
+#header-title {
+
+
+	position: relative;
+
+
+}
+
+
+.btn-primary {
+
+	background: #0275D8;
+	border: 1px solid #0275D8;
+	border-radius: 4px;
+
+}
+
+
+.btn {
+
+	font-family: 'Catamaran', sans-serif;
+	font-weight: lighter;
+
+}
+
+
+.background-grey {
+
+	background-color: #F1F1F1;
+
+}
+
+
+
+.date {
+
+
+	background: #0275D8;
+	box-shadow: -1px 1px 2px 0 rgba(0,0,0,0.50);
+	border-radius: 2px;
+	width: 50px;
+	position: absolute; 
+	top: 0px; 
+	right: 16px;
+
+
+}
+
+
+.text-white {
+
+	color: white;
+
+}
+
+
+#text-groesser {
+
+	font-size: 1.8em;
+	letter-spacing: 0;
+}
+
+
+#header-background {
+
+	background-image: url("../img/header.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+
+#header-background-2 {
+
+	background-image: url("../img/header2.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+
+
+.navbar {
+    
+    margin-bottom: 0px;
+   
+}
+
+
+.navbar-default {
+
+	background: white !important;
+	border: transparent !important;
+
+}
+
+
+#myInput		{
+	font-family: 'Catamaran', sans-serif;
+  	font-size: 1.5em;
+  	width:390%;
+  -webkit-transition:width 0.3s ease-in-out;
+  	box-shadow: none;
+   	background-color: rgba(0, 0, 0, 0);
+   	border:none;
+   	box-shadow: none;
+}
+
+
+.jumbotron {
+
+	margin-bottom: 0px;
+
+}
+
+
+.container-durchschuss {
+
+
+    padding-top: 60px; 
+	padding-bottom: 60px;
+}
